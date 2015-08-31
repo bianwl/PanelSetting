@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">指令</string>
+    <string name="action_settings">action_setting</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="order_style">指令类别</string>
+    <string name="group_address">组地址</string>
+    <string name="child_address">子地址</string>
+    <string name="sence">场景</string>
+    <string name="circuit1">回路1</string>
+    <string name="circuit2">回路2</string>
+    <string name="circuit3">回路3</string>
+    <string name="search">查询</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="server_ip">目标地址</string>
+    <string name="server_port">目标端口</string>
+    <string name="connection">连接</string>
+
+    <string name="warnning">警告</string>
+    <string name="enable_null_ip">目标地址不能为空！</string>
+    <string name="enable_null_port">目标端口不能为空！</string>
+    <string name="ok">确定</string>
+    <string name="ip">192.168.0.32</string>
+    <string name="port">30003</string>
+
+    <string name="one">1位</string>
+    <string name="two">2位</string>
+    <string name="four">4位</string>
+    <string name="address_setting">指令</string>
+</resources>

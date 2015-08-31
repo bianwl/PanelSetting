@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orderstyle">
+        <item name="address_setting">设置地址</item>
+        <item name="address_search">查询地址</item>
+        <item name="button_sence">开关场景</item>
+        <item name="button_monitor">开关监视</item>
+        <item name="light_sence">调光场景</item>
+        <item name="light_monitor">调光监视</item>
+        <item name="curtain_sence">窗帘场景</item>
+        <item name="group_sence">组面板场景</item>
+    </string-array>
+</resources>
